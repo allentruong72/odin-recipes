@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website that contains various recipes for different dishes using HTML
